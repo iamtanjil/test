@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.like{
+    background-color: blue;
+    color: brown;
+    text-align: center;
+    margin: 0;
+}
+.container{
+    height: 400px;
+    width: 400px;
+    border: 2px solid rgb(56, 56, 82);
+    margin: 10px;
+}
